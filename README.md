@@ -115,4 +115,4 @@ Com a aplicação em execução, a documentação pode ser acessada em:
 
 ## Status do projeto
 
-Em desenvolvimento.
+Versão inicial concluída e publicada no GitHub.
